@@ -8,6 +8,6 @@ public class efes {
     }
 
     public static int efe(int a,int b){
-        return a*b;
+        return a+b;
     }
 }
