@@ -6,6 +6,7 @@ public class efes {
         System.out.println("ef");
         System.out.println(efe(1,2));
     }
+    // efe
 
     public static int efe(int a,int b){
         return a+b;
